@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwiftGenerator", "SwiftGenerator\SwiftGenerator.csproj", "{EDC0C375-F09E-466B-B471-1D75CE6BA376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratorTests", "GeneratorTests\GeneratorTests.csproj", "{D3D29A75-427E-4915-AE10-A5125098D5FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDC0C375-F09E-466B-B471-1D75CE6BA376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC0C375-F09E-466B-B471-1D75CE6BA376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC0C375-F09E-466B-B471-1D75CE6BA376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC0C375-F09E-466B-B471-1D75CE6BA376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D29A75-427E-4915-AE10-A5125098D5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D29A75-427E-4915-AE10-A5125098D5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D29A75-427E-4915-AE10-A5125098D5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D29A75-427E-4915-AE10-A5125098D5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7A30696-BA5E-4CA1-B2A1-F77E1716B096}
+	EndGlobalSection
+EndGlobal
